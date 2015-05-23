@@ -1,0 +1,5 @@
+[user]
+	name = Immo Heikkinen
+	email = immo.heikkinen@gmail.com
+[alias]
+	st = status --short
